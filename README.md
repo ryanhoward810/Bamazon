@@ -3,7 +3,6 @@
 Created during Week 12 of UCSD Coding Bootcamp. The goal was to create an Amazon-like store front using MySQL and Node.js.
 
 # Getting Started
-
 Clone repo
 
 Run command in Terminal or Gitbash 'npm install'
@@ -21,8 +20,8 @@ Run 'ctrl + c' to exit each mode
 
 # What Each JavaScript Does
 
-- BamazonCustomer.js-
 
+# BamazonCustomer.js
 Prints the products in the store.
 
 Prompts customer which product they would like to purchase by ID number.
@@ -37,8 +36,7 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 It will also update the product sales in the department table.
 
 
-- BamazonManager.js -
-
+# BamazonManager.js
 Starts with a menu:
 
 View Products for Sale
@@ -62,8 +60,7 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 
-# - BamazonSupervisor.js -
-
+# BamazonSupervisor.js
 Starts with a menu:
 
 View Product Sales by Department
@@ -79,7 +76,6 @@ If the manager selects Create New Department, it allows the manager to create a 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 # Demo Screen Shots
-
 - BamazonCustomer.js - see images folder
 
 - BamazonManager.js - see images folder
@@ -87,7 +83,6 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 - BamazonSupervisor.js - see images folder
 
 # Technologies used
-
 - Node.js
 
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)                                                                           
@@ -95,12 +90,10 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 - MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
 # Prerequisites
-
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Create a MYSQL database called 'Bamazon', reference schema.sql
  
 # Built With
-
 - Sublime Text - Text Editor
 
 - MySQLWorkbench
@@ -108,5 +101,4 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 - Terminal/Gitbash
 
 # Author
-
 Ryan Howard
