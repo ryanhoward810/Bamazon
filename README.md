@@ -2,7 +2,7 @@
 
 Created during Week 12 of UCSD Coding Bootcamp. The goal was to create an Amazon-like store front using MySQL and Node.js.
 
-Getting Started
+# Getting Started
 
 Clone repo
 
@@ -19,9 +19,9 @@ Exective - 'npm run exective'
 Run 'ctrl + c' to exit each mode
 
 
-What Each JavaScript Does
+# What Each JavaScript Does
 
--BamazonCustomer.js-
+- BamazonCustomer.js-
 
 Prints the products in the store.
 
@@ -37,7 +37,7 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 It will also update the product sales in the department table.
 
 
-BamazonManager.js -
+- BamazonManager.js -
 
 Starts with a menu:
 
@@ -62,7 +62,7 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 
-BamazonSupervisor.js -
+- BamazonSupervisor.js -
 
 Starts with a menu:
 
@@ -80,31 +80,34 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 
 Demo Screen Shots
 
-BamazonCustomer.js - see images folder
+- BamazonCustomer.js - see images folder
 
-BamazonManager.js - see images folder
+- BamazonManager.js - see images folder
 
-BamazonSupervisor.js - see images folder
+- BamazonSupervisor.js - see images folder
 
-Technologies used
+# Technologies used
 
-Node.js
+- Node.js
 
-Inquire NPM Package (https://www.npmjs.com/package/inquirer)                                                                             
+- Inquire NPM Package (https://www.npmjs.com/package/inquirer)                                                                             
 
-MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+- MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
-Prerequisites
+# Prerequisites
 
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Create a MYSQL database called 'Bamazon', reference schema.sql
 
+# 
 Built With
 
 Sublime Text - Text Editor
+
 MySQLWorkbench
+
 Terminal/Gitbash
 
-Author
+# Author
 
 Ryan Howard
