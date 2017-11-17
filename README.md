@@ -59,11 +59,11 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 
 Demo Videos
 
-BamazonCustomer.js 
+BamazonCustomer.js ()
 
-BamazonManager.js 
+BamazonManager.js ()
 
-BamazonSupervisor.js 
+BamazonSupervisor.js ()
 
 Technologies used
 
