@@ -62,7 +62,7 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 
-- BamazonSupervisor.js -
+# - BamazonSupervisor.js -
 
 Starts with a menu:
 
@@ -78,7 +78,7 @@ If the manager selects Create New Department, it allows the manager to create a 
 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
-Demo Screen Shots
+# Demo Screen Shots
 
 - BamazonCustomer.js - see images folder
 
@@ -90,7 +90,7 @@ Demo Screen Shots
 
 - Node.js
 
-- Inquire NPM Package (https://www.npmjs.com/package/inquirer)                                                                             
+- Inquire NPM Package (https://www.npmjs.com/package/inquirer)                                                                           
 
 - MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
@@ -98,15 +98,14 @@ Demo Screen Shots
 
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Create a MYSQL database called 'Bamazon', reference schema.sql
+ 
+# Built With
 
-# 
-Built With
+- Sublime Text - Text Editor
 
-Sublime Text - Text Editor
+- MySQLWorkbench
 
-MySQLWorkbench
-
-Terminal/Gitbash
+- Terminal/Gitbash
 
 # Author
 
