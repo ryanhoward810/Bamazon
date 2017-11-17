@@ -49,9 +49,9 @@ However, if there is not enough of the product in stock, it will tell the user t
 - If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 # Demo Screen Shots
-- BamazonCustomer.js - see images folder
-- BamazonManager.js - see images folder
-- BamazonSupervisor.js - see images folder
+- BamazonCustomer.js - see images in github Bamazon folder (3)
+- BamazonManager.js - see images in github Bamazon folder (5)
+- BamazonSupervisor.js - see images in github Bamazon folder (4)
 
 # Technologies used
 - Node.js
