@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like store front using MySQL and Node.js",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "customer": "node BamazonCustomer.js",
+    "executive": "node BamazonSupervisor.js",
+    "manager": "node BamazonManager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanhoward810/Bamazon.git"
+  },
+  "author": "Ryan Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanhoward810/Bamazon/issues"
+  },
+  "homepage": "https://github.com/ryanhoward810/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  }
+}
