@@ -3,20 +3,13 @@
 Created during Week 12 of UCSD Coding Bootcamp. The goal was to create an Amazon-like store front using MySQL and Node.js.
 
 # Getting Started
-Clone repo
-
-Run command in Terminal or Gitbash 'npm install'
-
-Run command depending which mode you would like to be on:
-
-Customer - 'npm run customer'
-
-Manager - 'npm run manager'
-
-Exective - 'npm run exective'
-
-Run 'ctrl + c' to exit each mode
-
+- Clone repo
+- Run command in Terminal or Gitbash 'npm install'
+- Run command depending which mode you would like to be on:
+- Customer - 'npm run customer'
+- Manager - 'npm run manager'
+- Exective - 'npm run exective'
+- Run 'ctrl + c' to exit each mode
 
 # What Each JavaScript Does
 
